@@ -11,7 +11,7 @@ export default function About() {
           <div className='bk2'>
             <b>Jai Shree Ram</b>
             <h1>I'm John Wick</h1>
-            <p> John Wick is a 2014 American neo-noir<br/> action thriller film directed by Chad Stahelski from a screenplay<br/> by Derek Kolstad. It stars Keanu Reeves, Michael Nyqvist,<br/> Alfie Allen, Adrianne Palicki, Bridget Moynahan,<br/> Dean Winters, Ian McShane, John Leguizamo, and Willem Dafoe. </p>
+            <p> John Wick is a 2014 American neo-noir<br/> action   thriller film directed by Chad Stahelski from a screenplay<br/> by Derek Kolstad. It stars Keanu Reeves, Michael Nyqvist,<br/> Alfie Allen, Adrianne Palicki, Bridget Moynahan,<br/> Dean Winters, Ian McShane, John Leguizamo, and Willem Dafoe. </p>
             <a href='https://en.wikipedia.org/wiki/John_Wick_(film)' >Read More</a>
           </div>
         </div>
